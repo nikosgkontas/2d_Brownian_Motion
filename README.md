@@ -1,4 +1,4 @@
-# RandomWalk_2D.py
+# 2D Brown Motion
 Simulating a 2D Random Walk with Normally Distributed Steps
 <br>
 <br>
